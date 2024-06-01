@@ -102,7 +102,9 @@ a:hover {
 .hero-bg img {
     transform: rotate(45deg);
     height: 20rem;
-    margin-left: 7rem;
+    position: relative;
+    left: 160px;
+    top: 130px;
 }
 .hero .intro {
     margin-top: 7rem;
